@@ -6,27 +6,3 @@ Ciupercăria este o micro-întreprindere de agricultură urbană care dorește s
 About
 
 Interfata pentru comunicare cu baza de date.
-Resources
-Readme
-Activity
-Stars
-0 stars
-Watchers
-1 watching
-Forks
-0 forks
-Languages
-
-    Java 100.0% 
-
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact
-
